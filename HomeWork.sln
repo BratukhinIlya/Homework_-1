@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov", "Tumakov\Tumakov.csproj", "{48FB6F09-D404-4F37-B74F-050C3CF51B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For_Fadeeva", "For_Fadeeva\For_Fadeeva.csproj", "{EAFD82F1-F553-48D7-AE5A-BDAB13292B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48FB6F09-D404-4F37-B74F-050C3CF51B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FB6F09-D404-4F37-B74F-050C3CF51B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FB6F09-D404-4F37-B74F-050C3CF51B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FB6F09-D404-4F37-B74F-050C3CF51B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFD82F1-F553-48D7-AE5A-BDAB13292B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFD82F1-F553-48D7-AE5A-BDAB13292B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFD82F1-F553-48D7-AE5A-BDAB13292B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFD82F1-F553-48D7-AE5A-BDAB13292B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF650C0-9CE0-43C5-93CE-F00300784ED6}
+	EndGlobalSection
+EndGlobal

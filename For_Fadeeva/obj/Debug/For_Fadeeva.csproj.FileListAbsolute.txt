@@ -1,0 +1,8 @@
+C:\Users\6642b\source\repos\HomeWork\For_Fadeeva\bin\Debug\For_Fadeeva.exe.config
+C:\Users\6642b\source\repos\HomeWork\For_Fadeeva\bin\Debug\For_Fadeeva.exe
+C:\Users\6642b\source\repos\HomeWork\For_Fadeeva\bin\Debug\For_Fadeeva.pdb
+C:\Users\6642b\source\repos\HomeWork\For_Fadeeva\obj\Debug\For_Fadeeva.csproj.AssemblyReference.cache
+C:\Users\6642b\source\repos\HomeWork\For_Fadeeva\obj\Debug\For_Fadeeva.csproj.SuggestedBindingRedirects.cache
+C:\Users\6642b\source\repos\HomeWork\For_Fadeeva\obj\Debug\For_Fadeeva.csproj.CoreCompileInputs.cache
+C:\Users\6642b\source\repos\HomeWork\For_Fadeeva\obj\Debug\For_Fadeeva.exe
+C:\Users\6642b\source\repos\HomeWork\For_Fadeeva\obj\Debug\For_Fadeeva.pdb
